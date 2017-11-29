@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package HelloWorld2;
+package x20170906;
 
 import java.util.Scanner;
 
